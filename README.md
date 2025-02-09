@@ -1,5 +1,11 @@
 <a href="https://github.com/sdrgabriel"><img width=100% src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=SdrGabriel's%20Profile&section=header"/></a>
 
+## Abaut me
+
+Hello! I am Gabriel Ricardo, a backend developer with over 5 years of solid experience at Autbank Projetos e Consultoria Ltda. My passion for technology constantly drives me to seek new knowledge and improve my skills. I work with technologies that ensure performance, scalability, and robust solutions for complex systems.
+
+I am driven by curiosity and the desire to always learn and improve. I am here to explore new ideas, face challenges, and contribute with innovative solutions. Let's embark on this technological journey together!
+
 ##
 
 <div align="center">
