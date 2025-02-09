@@ -265,7 +265,23 @@ I am driven by curiosity and the desire to always learn and improve. I am here t
         height="50"
         width="52" 
         style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"/>        
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"/>   
+        <img 
+        align="left" 
+        alt="markdown"
+        title="markdown" 
+        height="50"
+        width="52" 
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"/>  
+        <img 
+        align="notion" 
+        alt="notion"
+        title="maven" 
+        height="50"
+        width="52" 
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/>  
     </div><br><br>
 </div><br><br>
 
